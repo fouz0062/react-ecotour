@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-ecotour/static/css/main.f27d994d.css",
+    "main.js": "/react-ecotour/static/js/main.659f5977.js",
+    "static/js/787.2cb9fe22.chunk.js": "/react-ecotour/static/js/787.2cb9fe22.chunk.js",
+    "static/media/car-3.jpg": "/react-ecotour/static/media/car-3.ba76df606a0a20e0f1c0.jpg",
+    "static/media/home-background.jpg": "/react-ecotour/static/media/home-background.cd2b6c87f4d569847b2a.jpg",
+    "static/media/maldives.jpg": "/react-ecotour/static/media/maldives.6491001fa41a61af63fe.jpg",
+    "static/media/pvt-bg2.jpg": "/react-ecotour/static/media/pvt-bg2.92db9ea56069b64a656d.jpg",
+    "static/media/home-background3.jpg": "/react-ecotour/static/media/home-background3.3b12f50a38c76fdcc5ea.jpg",
+    "static/media/pvt-bg1.jpg": "/react-ecotour/static/media/pvt-bg1.787bbfec52b8b0f84521.jpg",
+    "static/media/home-background4.jpg": "/react-ecotour/static/media/home-background4.2d0b56f071312a79becd.jpg",
+    "static/media/single-bg1.jpg": "/react-ecotour/static/media/single-bg1.ef63f437d13c263f36cc.jpg",
+    "static/media/car-2.jpg": "/react-ecotour/static/media/car-2.60e77a188ebc5b38e1cc.jpg",
+    "static/media/dest-sky-bg.jpg": "/react-ecotour/static/media/dest-sky-bg.b4d51f2d61e69a29df2b.jpg",
+    "static/media/dest-bg1.jpg": "/react-ecotour/static/media/dest-bg1.9a2306a90d8c3c056272.jpg",
+    "static/media/car-1.jpg": "/react-ecotour/static/media/car-1.476dcd001cad9292104f.jpg",
+    "static/media/boat-bg2.jpg": "/react-ecotour/static/media/boat-bg2.c2a5b8aae0f8b2d5dc9a.jpg",
+    "static/media/home-background2.png": "/react-ecotour/static/media/home-background2.c50d2b27bc0c7bdecc2f.png",
+    "index.html": "/react-ecotour/index.html",
+    "main.f27d994d.css.map": "/react-ecotour/static/css/main.f27d994d.css.map",
+    "main.659f5977.js.map": "/react-ecotour/static/js/main.659f5977.js.map",
+    "787.2cb9fe22.chunk.js.map": "/react-ecotour/static/js/787.2cb9fe22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f27d994d.css",
+    "static/js/main.659f5977.js"
+  ]
+}
